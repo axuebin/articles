@@ -1,6 +1,10 @@
 ## 文章归档
 
-### JavaScript语法
+个人博客：[http://axuebin.com/blog](http://axuebin.com/blog)
+
+个人博客（react版）：[http://axuebin.com/blog](http://axuebin.com/react-blog)
+
+### JavaScript
 
 - [原生JS实现最简单的图片懒加载](https://github.com/axuebin/articles/issues/1)
 - [JavaScript数据类型的存储](https://github.com/axuebin/articles/issues/3)
