@@ -1,22 +1,3 @@
----
-layout: post
-title:  "React中state和props分别是什么？"
-date:   2017-09-15 09:07:00
-categories: 前端
-tags: React
-author: 薛彬
----
-
-* content
-{:toc}
-
-整理一下React中关于state和props的知识点。
-
-
-
-
-
-
 在任何应用中，数据都是必不可少的。我们需要直接的改变页面上一块的区域来使得视图的刷新，或者间接地改变其他地方的数据。React的数据是自顶向下单向流动的，即从父组件到子组件中，组件的数据存储在`props`和`state`中，这两个属性有啥子区别呢？
 
 ## props

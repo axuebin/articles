@@ -1,21 +1,4 @@
----
-layout: post
-title:  "React V15.6 实现一个简单的个人主页"
-date:   2017-09-28 16:00:00
-categories: 前端
-tags: React
-author: 薛彬
----
-
-* content
-{:toc}
-
 学习 React 的过程中实现了一个个人主页，没有复杂的实现和操作，适合入门 ~
-
-
-
-
-
 
 这个项目其实功能很简单，就是常见的主页、博客、demo、关于我等功能。
 

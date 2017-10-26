@@ -1,24 +1,6 @@
----
-layout: post
-title:  "用React实现一个简易的TodoList"
-date:   2017-07-27 14:29:10
-categories: 前端
-tags: React
-author: 薛彬
----
-
-* content
-{:toc}
-
 初学React，撸一个TodoList熟悉熟悉基本语法，只有最简单最简单的功能。
 
-
-
-
-
 ![](http://i.imgur.com/tT18EpC.png)
-
-
 
 如上图所示，是一个最简单的TodoList的样子了，我们应该怎样把它拆成一个个的组件呢？
 

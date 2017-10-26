@@ -1,20 +1,4 @@
----
-layout: post
-title:  "ES6变量命名方式以及块级作用域"
-date:   2017-07-16 18:30:54
-categories: 前端
-tags: ES6
-author: 薛彬
----
-
-* content
-{:toc}
-
-
 买的《深入理解es6》终于到手了，赶紧看起来。。
-
-
-
 
 ## var声明及变量提升机制
 

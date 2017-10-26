@@ -1,20 +1,4 @@
----
-layout: post
-title:  "React的生命周期到底是怎么一回事？"
-date:   2017-09-15 12:17:04
-categories: 前端
-tags: React
-author: 薛彬
----
-
-* content
-{:toc}
-
 尽量全面详细的整理一下React的生命周期中的知识点。
-
-
-
-
 
 ## 组件
 

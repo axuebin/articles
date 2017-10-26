@@ -1,22 +1,4 @@
----
-layout: post
-title:  "JavaScript call apply bind"
-date:   2017-09-19 13:08:00
-categories: 前端
-tags: JavaScript
-author: 薛彬
----
-
-* content
-{:toc}
-
-整理`call`、`apply`、`bind`这三个方法的的知识点。
-
-
-
-
-
-之前[这篇文章](http://axuebin.com/blog/2017/09/19/javascript-this/)提到过`this`的各种情况，其中有一种情况就是通过`call`、`apply`、`bind`来将`this`绑定到指定的对象上。
+之前[这篇文章](https://github.com/axuebin/articles/issues/6)提到过`this`的各种情况，其中有一种情况就是通过`call`、`apply`、`bind`来将`this`绑定到指定的对象上。
 
 也就是说，这三个方法可以改变函数体内部`this`的指向。
 

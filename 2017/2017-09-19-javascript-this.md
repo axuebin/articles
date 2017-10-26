@@ -1,21 +1,3 @@
----
-layout: post
-title:  "JavaScript this"
-date:   2017-09-19 08:21:00
-categories: 前端
-tags: JavaScript
-author: 薛彬
----
-
-* content
-{:toc}
-
-看看这个有着深不可测的魔力的`this`到底是个什么玩意儿 ~
-
-
-
-
-
 ## 什么是this
 
 在传统面向对象的语言中，比如Java，`this`关键字用来表示当前对象本身，或当前对象的一个实例，通过`this`关键字可以获得当前对象的属性和调用方法。
