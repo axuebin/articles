@@ -22,3 +22,8 @@
 ### 网络及浏览器
 
 - [关于浏览器缓存我知道多少](https://github.com/axuebin/articles/issues/10)
+
+### 数据结构及算法
+
+- [JavaScript数据结构及算法——排序](https://github.com/axuebin/articles/issues/12)
+- [JavaScript数据结构及算法——查找](https://github.com/axuebin/articles/issues/13)
