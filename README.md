@@ -9,6 +9,7 @@
 - [JavaScript基础心法——数据类型](https://github.com/axuebin/articles/issues/3)
 - [JavaScript基础心法——this](https://github.com/axuebin/articles/issues/6)
 - [JavaScript基础心法——call apply bind](https://github.com/axuebin/articles/issues/7)
+- [JavaScript基础心法——深浅拷贝](https://github.com/axuebin/articles/issues/20)
 - [ES6变量命名方式以及块级作用域](https://github.com/axuebin/articles/issues/8)
 - [原生JS实现最简单的图片懒加载](https://github.com/axuebin/articles/issues/1)
 
