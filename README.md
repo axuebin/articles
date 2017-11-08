@@ -2,7 +2,7 @@
 
 个人博客：[http://axuebin.com/blog](http://axuebin.com/blog)
 
-个人博客（react版）：[http://axuebin.com/blog](http://axuebin.com/react-blog)
+个人博客（react版）：[http://axuebin.com/react-blog](http://axuebin.com/react-blog)
 
 ### JavaScript
 
