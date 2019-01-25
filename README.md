@@ -13,6 +13,7 @@
 - [ES6变量命名方式以及块级作用域](https://github.com/axuebin/articles/issues/8)
 - [原生JS实现最简单的图片懒加载](https://github.com/axuebin/articles/issues/1)
 - [JavaScript复制内容到剪贴板](https://github.com/axuebin/articles/issues/26)
+- [JavaScript 判断 iPhone X Series 机型](https://github.com/axuebin/articles/issues/28)
 
 ### React
 
