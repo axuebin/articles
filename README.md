@@ -15,6 +15,7 @@
 - [JavaScript复制内容到剪贴板](https://github.com/axuebin/articles/issues/26)
 - [JavaScript 判断 iPhone X Series 机型](https://github.com/axuebin/articles/issues/28)
 - [ES2019](https://github.com/axuebin/articles/issues/29)
+- [Quill 富文本编辑器自定义格式化](https://github.com/axuebin/articles/issues/30)
 
 ### React
 
