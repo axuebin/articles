@@ -1,5 +1,5 @@
 ## quilljs
-/Users/axuebin/Code/Github/articles/2019/quill 富文本编辑器自定义格式化.md
+
 现在富文本编辑器轮子太多了，Github 上随便搜一下就有一堆，我需要实现的功能很简单，所以就佛系地选了 `quilljs`，quilljs 是一个轻量级的富文本编辑器。
 
 链接：
