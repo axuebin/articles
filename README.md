@@ -16,6 +16,7 @@
 - [JavaScript 判断 iPhone X Series 机型](https://github.com/axuebin/articles/issues/28)
 - [ES2019](https://github.com/axuebin/articles/issues/29)
 - [Quill 富文本编辑器自定义格式化](https://github.com/axuebin/articles/issues/30)
+- [初学 Babel 工作原理](https://github.com/axuebin/articles/issues/31)
 
 ### React
 
