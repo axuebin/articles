@@ -18,9 +18,18 @@
 - [Quill 富文本编辑器自定义格式化](https://github.com/axuebin/articles/issues/30)
 - [初学 Babel 工作原理](https://github.com/axuebin/articles/issues/31)
 
+### webpack
+
+- [webpack loader 从上手到理解系列：file-loader](https://github.com/axuebin/articles/issues/33)
+- [webpack loader 从上手到理解系列：url-loader](https://github.com/axuebin/articles/issues/34)
+- [webpack loader 从上手到理解系列：style-loader](https://github.com/axuebin/articles/issues/35)
+- [webpack loader 从上手到理解系列：vue-loader （一）](https://github.com/axuebin/articles/issues/37)
+- [前端工程师都得掌握的 webpack Loader](https://github.com/axuebin/articles/issues/38)
+
 ### TypeScript
 
-- [TypeScript Start: 什么是 TypeScript](https://github.com/axuebin/articles/issues/32)
+- [什么是 TypeScript](https://github.com/axuebin/articles/issues/32)
+- [基础类型](https://github.com/axuebin/articles/issues/36)
 
 ### React
 

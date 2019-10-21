@@ -1,4 +1,4 @@
-# TypeScript Start
+# TypeScript Start：什么是 TypeScript
 
 最近开始用 `TypeScript` 来写项目，写起来还是挺顺畅的。其实学习 `TypeScript`，看它的官方文档就够了，剩下就是 `coding` 了。我这里主要是我在 `TypeScript` 学习过程中记录的一些东西~
 
