@@ -17,6 +17,7 @@
 - [ES2019](https://github.com/axuebin/articles/issues/29)
 - [Quill 富文本编辑器自定义格式化](https://github.com/axuebin/articles/issues/30)
 - [初学 Babel 工作原理](https://github.com/axuebin/articles/issues/31)
+- [如何用 Babel 为代码自动引入依赖](https://github.com/axuebin/articles/issues/40)
 
 ### webpack
 
